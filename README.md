@@ -8,7 +8,7 @@ Sono uno studente web developer e barman, appassionato di **programmazione, svil
 ## 💻 Competenze Tecniche
 
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** PHP (Laravel), Flask, SQL/MySQL  
+- **Backend:** PHP (Laravel), SQL/MySQL  
 - **Fullstack:** sviluppo di dashboard, sistemi di gestione, applicazioni web complete  
 - **Strumenti:** Git, GitHub, Visual Studio Code, Ubuntu Desktop  
 - **Altro:** gestione di database, integrazione API, automazioni  
