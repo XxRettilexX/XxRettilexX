@@ -1,13 +1,44 @@
-<h1 align="center">Hi 👋, I'm Vito</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+# Ciao, sono Vito 👋
 
-- 🌱 I’m currently learning **React**
+Benvenuto nel mio profilo GitHub!  
+Sono uno studente web developer e barman, appassionato di **programmazione, sviluppo web e gaming**. Qui condivido i miei progetti personali, esercizi e prototipi di siti e applicazioni web.
 
-- 📫 How to reach me **vitostri89@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💻 Competenze Tecniche
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** PHP (Laravel), Flask, SQL/MySQL  
+- **Fullstack:** sviluppo di dashboard, sistemi di gestione, applicazioni web complete  
+- **Strumenti:** Git, GitHub, Visual Studio Code, Ubuntu Desktop  
+- **Altro:** gestione di database, integrazione API, automazioni  
+
+---
+
+## 🚀 Progetti principali
+
+- **CodeUnlocked** – Canale e progetti legati a coding e gameplay  
+- **Web App Magazzino Bar** – Gestione scorte, timbrature, ruoli utenti  
+- **Concessionario Moto / Auto** – Dashboard con gestione clienti, vendite, officina e appuntamenti  
+- **To-Do List e App varie** – Piccoli progetti per esercizio e apprendimento  
+
+
+---
+
+## 📫 Contattami
+
+Se vuoi collaborare o hai bisogno di un **freelance web developer**, puoi contattarmi tramite:  
+
+- **Email:** [vitostri89@gmail.com]   
+
+---
+
+## ⚡ Info extra
+
+- Studente ITS Apulia Digital Maker  
+- Disponibile per lavori part-time, freelance e progetti a breve termine  
+- Sempre pronto a imparare nuove tecnologie e sfide digitali  
+
+---
+
+> “Code, learn, play, repeat.”
