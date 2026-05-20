@@ -44,3 +44,10 @@ Sistema di gestione clienti, vendite, officina e appuntamenti.
 ---
 
 > Sempre pronto a sporcarmi le mani su problemi reali.
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XxRettilexX&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XxRettilexX&layout=compact&hide_border=true&theme=default)
