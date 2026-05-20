@@ -1,44 +1,46 @@
-# Ciao, sono Vito 👋
+# Hey, sono Vito 👋
 
-Benvenuto nel mio profilo GitHub!  
-Sono uno studente web developer e barman, appassionato di **programmazione, sviluppo web e gaming**. Qui condivido i miei progetti personali, esercizi e prototipi di siti e applicazioni web.
-
----
-
-## 💻 Competenze Tecniche
-
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Backend:** PHP (Laravel), SQL/MySQL  
-- **Fullstack:** sviluppo di dashboard, sistemi di gestione, applicazioni web complete  
-- **Strumenti:** Git, GitHub, Visual Studio Code, Ubuntu Desktop  
-- **Altro:** gestione di database, integrazione API, automazioni  
+Junior Full Stack Developer con esperienza su progetti web e mobile reali.  
+Stack principale: **React · React Native · Node.js · Python · Docker**  
+📍 Puglia, Italia · 🌐 [vitostrisciuglio.work](http://vitostrisciuglio.work)
 
 ---
 
-## 🚀 Progetti principali
+## 🛠️ Stack Tecnico
 
-- **CodeUnlocked** – Canale e progetti legati a coding e gameplay  
-- **Web App Magazzino Bar** – Gestione scorte, timbrature, ruoli utenti  
-- **Concessionario Moto / Auto** – Dashboard con gestione clienti, vendite, officina e appuntamenti  
-- **To-Do List e App varie** – Piccoli progetti per esercizio e apprendimento  
-
-
----
-
-## 📫 Contattami
-
-Se vuoi collaborare o hai bisogno di un **freelance web developer**, puoi contattarmi tramite:  
-
-- **Email:** [vitostri89@gmail.com]   
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## ⚡ Info extra
+## 🚀 Progetti
 
-- Studente ITS Apulia Digital Maker  
-- Disponibile per lavori part-time, freelance e progetti a breve termine  
-- Sempre pronto a imparare nuove tecnologie e sfide digitali  
+### 🔧 Smart Boiler — IoT/AIoT Digital Twin
+App mobile cross-platform (React Native/Expo) per il monitoraggio intelligente di impianti di riscaldamento.  
+Integrazione con microservizi Docker, broker MQTT, API REST e LLM locali (Ollama).  
+`React Native` `FastAPI` `Docker` `MQTT` `Ollama`
+
+### 📦 Web App Gestione Magazzino Bar
+Dashboard web per la gestione delle scorte, timbrature e ruoli utenti.  
+`JavaScript` `HTML/CSS` `SQL`
+
+### 🚗 Dashboard Concessionario
+Sistema di gestione clienti, vendite, officina e appuntamenti.  
+`JavaScript` `HTML/CSS` `Bootstrap` `SQL`
 
 ---
 
-> “Code, learn, play, repeat.”
+## 📫 Contatti
+
+- ✉️ vitostri89@gmail.com  
+- 🌐 [vitostrisciuglio.work](http://vitostrisciuglio.work)  
+- 💼 Disponibile per posizioni **Junior Full Stack / Frontend Developer**
+
+---
+
+> Sempre pronto a sporcarmi le mani su problemi reali.
